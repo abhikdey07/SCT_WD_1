@@ -33,7 +33,7 @@ I extended the basic requirement by building a **modern gym/fitness landing page
 
 ## 🌐 Live Demo
 
-👉 (Add your GitHub Pages link here)
+👉 https://abhikdey07.github.io/SCT_WD_1/
 
 
 
